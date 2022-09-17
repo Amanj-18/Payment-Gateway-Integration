@@ -7,6 +7,6 @@ Technology used : HTML , CSS , JS
 Preview : 
 
 ![image](https://user-images.githubusercontent.com/89749348/190854921-648357c6-5eea-4b11-a289-3b6b7c635821.png)
-![image](https://user-images.githubusercontent.com/89749348/190855002-c4ce1b24-ad24-4d70-aa00-1f92afaf6e84.png)
 ![image](https://user-images.githubusercontent.com/89749348/190854985-bb3063aa-87ac-4df6-9e90-5241448669af.png)
+![image](https://user-images.githubusercontent.com/89749348/190855002-c4ce1b24-ad24-4d70-aa00-1f92afaf6e84.png)
 
